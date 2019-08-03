@@ -7,9 +7,16 @@ This document is issued to define our team project - Mobile insect processing pl
 | 01               | 00               | 03/08/2019       | Draft for Audit 1 | Jessica Ying      |                   |
 
 ## Table of Content
+- [1. Relevant Stakeholders](#1-relevant-stakeholders)
+  * [1.1. Project Team](#11-project-team)
+  * [1.2. Project Client](#12-project-client)
+  * [1.3. Supervisors](#13-supervisors)
+  * [1.4. Shadow Team](#14-shadow-team)
+  * [1.5. Potential Customers](#15-potential-customers)
 
 
-## 1. Relavant Stakeholders
+
+## 1. Relevant Stakeholders
 
 ### 1.1. Project Team 
 
@@ -19,14 +26,29 @@ Our client is [Goterra Pty Ltd](https://www.goterra.com.au). The company is a or
 
 | Name           | Role                  | Contact                   | Interaction with the Project                           |
 | :------------: |:-------------:        | :-----:                   | ------                                                 |
-| Olympia Yarger | Founder and CEO       | olympia@goterra.com.au    | Provides the defination and objectives of the project and guides on the project prograss |
-| Jiefei Wang    | Robotics Engineer     | jiefei@goterra.com.au     | Provides relavant technical supervisation and assistance |
+| Olympia Yarger | Founder and CEO       | olympia@goterra.com.au    | Provides the defination and objectives of the project and guides on the project progress |
+| Jiefei Wang    | Robotics Engineer     | jiefei@goterra.com.au     | Provides relevant technical supervisation and assistance |
 | Martin Amidy   | On behalf of Olympia  | martin.amidy@anu.edu.au   | Regularlly provides feedback and supervision during the project ongoing period and builds the connection between our project team and the project client |
-  
+ 
+- Responsibilities of the project team to the client
+  * Design a low-cost mobile insect processing plant in regards to the client baseline requirements.
+  * Regularly report the project progress and other relative information (such as reasonable delays and potential risks). 
+  * According to the design,estimate a finanal budget analysis (including the product lifecycle and potential cost on build the plant).   
 
-### 1.3. Supervisors
+- Responsibilities of the client to the project
+  * Provide the defination and objectives of the project. 
+  * Provide feedback to project team timely.
+  * Provide relevent and necessary technical supervisation and assistance.
+  * Be able to attend the regularly set meeting. 
+ 
+### 1.3. Third Party Supervisors
 
+The third party supervisors in the project are the course convenor and tutor of ENGN4221 at Australian National University. 
 
+| Name           | Role                  | Contact                   | Interaction with the Project                           |
+| :------------: |:-------------:        | :-----:                   | ------                                                 |
+| Ankur Sharma   | Course Convenor       | ankur.sharma@anu.edu.au   | 
+| Jani Sega      | Course Tutor          | jani.sega@anu.edu.au      | 
 
 ### 1.4. Shadow Team
 
