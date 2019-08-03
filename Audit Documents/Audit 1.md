@@ -79,5 +79,10 @@ Potential customers of our project product will be the insect farms, organic was
 
 Potential customers have no responsibilities to the project, but their requirements are one of the most important factors to be considered on the progress of designing the mobile insect processing plant. 
 
+## Milestones 
+### Goals for Each Audit
+### Contingencies
+### Timeline of the Project
+### Work Breakdown Structure
 
 
