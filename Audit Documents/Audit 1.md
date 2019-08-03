@@ -47,17 +47,37 @@ The third party supervisors in the project are the course convenor and tutor of 
 
 | Name           | Role                  | Contact                   | Interaction with the Project                           |
 | :------------: |:-------------:        | :-----:                   | ------                                                 |
-| Ankur Sharma   | Course Convenor       | ankur.sharma@anu.edu.au   | 
-| Jani Sega      | Course Tutor          | jani.sega@anu.edu.au      | 
+| Ankur Sharma   | Course Convenor       | ankur.sharma@anu.edu.au   | Provide feedback on the different stages of the project and give systematic gudiance on how to do the project |
+| Jani Sega      | Course Tutor          | jani.sega@anu.edu.au      | Provide feedback on the different stages of the project and give systematic gudiance on how to do the project | 
+
+- Responsibilities of the project team to the third party supervisors
+  * Provide the detailed information in regards to the assessment guidance about the project progress towards the milestone.
+  * Attend the regular tutorials and do the presentations to talk about the project.
+  * Submit the required documents on time.
+
+- Responsibilities of the third party supervisors to the project
+  * Provide feedback on the different stages of the project.
+  * Provide systematic gudiance on how to do the project.
+  * Estabilish the connection between the project team and project client.
+  * Assist the project team to complete the project and let the project be beneficial to the client.
+  * Have capacity on the communication, such as email and appointment.
 
 ### 1.4. Shadow Team
 
+The shadow team is another stakeholder in the project, who is enroled in the same tutorial slot as our project team. The shadow team has access to review all project information and will regularly provide feedback on each stages of project. Our project progress may inspired them and their recommendations may also be useful on the improvments of the project.
+
+- Responsibilities of the project team to the shadow team
+  * Provide shadow team the required access to our team project respoitories.
+  * Communicate appropriately with shadow team. 
+
+- Responsibilities of the shadow team to the project
+  * Provide feedback on the project timely.
+
 ### 1.5. Potential Customers
 
+Potential customers of our project product will be the insect farms, organic waste management companies. Goterra has client from government, councils, hotels, hospitals, restaurants and households. They are also the target customers.  
+
+Potential customers have no responsibilities to the project, but their requirements are one of the most important factors to be considered on the progress of designing the mobile insect processing plant. 
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=xEka0FpmR5k
-" target="_blank"><img src="http://img.youtube.com/vi/xEka0FpmR5k/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/xEka0FpmR5k/0.jpg)](http://www.youtube.com/watch?v=xEka0FpmR5k)
