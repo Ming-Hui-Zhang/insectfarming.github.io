@@ -6,11 +6,20 @@ This document is issued to define our team project - Mobile insect processing pl
 | ---------------- | ---------------- | ---------------- | ----------------- | ----------------- | ----------------- |
 | 01               | 00               | 03/08/2019       | Draft for Audit 1 | Jessica Ying      |                   |
 
-## Relavant Stakeholders
+## 1. Relavant Stakeholders
 
-### Project Team 
+### 1.1. Project Team 
 
-### Project 
+### 1.2. Project Client
+
+
+
+### 1.3. Supervisors
+
+### 1.4. Shadow Team
+
+### 1.5. Potential Customers
+
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xEka0FpmR5k
