@@ -3,8 +3,11 @@ This document is issued to define our team project - Mobile insect processing pl
 ## Document Revision History
 
 | Issue            | Revision         | Date             | Purpose of Issue  | Prepared by       | Reviewed by       |
-| ---------------- | ---------------- | ---------------- | ----------------- | ----------------- | ----------------- |
+| :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | :---------------: |
 | 01               | 00               | 03/08/2019       | Draft for Audit 1 | Jessica Ying      |                   |
+
+## Table of Content
+
 
 ## 1. Relavant Stakeholders
 
@@ -12,9 +15,18 @@ This document is issued to define our team project - Mobile insect processing pl
 
 ### 1.2. Project Client
 
+Our client is [Goterra Pty Ltd](https://www.goterra.com.au). The company is a organic waste management company. They believe that make a difference means doing things differently. Different with other organic waste processing technologies, Goterra farms insects, especially, Black Soldier Fly, Hermetia Illucens (BSF) to consume organic waste and Throughout the course of our process we harvest our larvae and frass to turn them into valuable agricultural commodities. The client team members are involved in this mobile insect processing plant design project are outlined in the table below.
 
+| Name           | Role                  | Contact                   | Interaction with the Project                           |
+| :------------: |:-------------:        | :-----:                   | ------                                                 |
+| Olympia Yarger | Founder and CEO       | olympia@goterra.com.au    | Provides the defination and objectives of the project and guides on the project prograss |
+| Jiefei Wang    | Robotics Engineer     | jiefei@goterra.com.au     | Provides relavant technical supervisation and assistance |
+| Martin Amidy   | On behalf of Olympia  | martin.amidy@anu.edu.au   | Regularlly provides feedback and supervision during the project ongoing period and builds the connection between our project team and the project client |
+  
 
 ### 1.3. Supervisors
+
+
 
 ### 1.4. Shadow Team
 
