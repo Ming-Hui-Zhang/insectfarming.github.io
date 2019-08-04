@@ -20,7 +20,7 @@ This document is issued to define our team project - Mobile insect processing pl
 
 ### 1.1. Project Team 
 
-This project team consists of 4 undergraduate engineering students. All the members need to follow the ground rules in the team. Each member has their distinct roles and need to be responsible for their sections. Other external stakeholders can direct contact with the member if they have any advice, concerns or questions in one specific section.
+Our project team consists of 4 undergraduate engineering students. All the members need to follow the ground rules in the team. Each member has their distinct roles and need to be responsible for their sections. Other external stakeholders can direct contact with the member if they have any advice, concerns or questions in one specific section.
 
 ### 1.2. Project Client
 
